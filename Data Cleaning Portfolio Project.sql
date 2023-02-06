@@ -1,6 +1,6 @@
-/* 
-Cleaning Data in SQL Queries
-*/
+/* DATA CLEANING SQL QUERIES of the Nashville Housing Dataset*/
+-- This is a Case study focus on data cleaning using SQL
+-- The dataset is available on https://www.kaggle.com/tmthyjames/nashville-housing-data
 
 SELECT *
 FROM PortfolioProject..NashvilleHousing
